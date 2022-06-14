@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Pablo
+# Hi there 👋, I'm Pablo!
+
+
 - 🗣️ Languages: 🇪🇸, 🇬🇧, 🇩🇪 
 
 - 💻 Programming Languages
@@ -19,14 +21,16 @@
   - Deep Learning
   - NLP 
   
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=pabvald&show_icons=true)
+
 <!--
+
+<img src="https://komarev.com/ghpvc/?username=pabvald"/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pabvald/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
- 
 
 
 **pabvald/pabvald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
