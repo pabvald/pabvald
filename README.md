@@ -1,12 +1,4 @@
 # Hi there 👋, I'm Pablo
-
-- 👐 OSS Projects & Contributions
-  - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) (Contributor)
-
-- 🌱 I’m currently learning ...
-  - Information Extraction and Automated Knowledge Base Construction 
-  - AI Planning 
-
 - 🗣️ Languages: 🇪🇸, 🇬🇧, 🇩🇪 
 
 - 💻 Programming Languages
@@ -15,6 +7,12 @@
   - Interested in working with: ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) or ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 
+- 👐 OSS Projects & Contributions
+  - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) (Contributor)
+
+- 🌱 I’m currently learning ...
+  - Information Extraction and Automated Knowledge Base Construction 
+  - AI Planning 
 
 - 💬 Ask me about ...
   - Machine Learning 
