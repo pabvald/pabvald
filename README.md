@@ -13,9 +13,9 @@
 - 👐 OSS Projects & Contributions
   - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) (Contributor)
 
-- 🌱 I’m currently learning ...
+<!-- - 🌱 I’m currently learning ...
   - Information Extraction and Automated Knowledge Base Construction 
-  - AI Planning 
+  - AI Planning  -->
 
 - 💬 Ask me about ...
   - Machine Learning 
