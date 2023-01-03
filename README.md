@@ -21,7 +21,9 @@
   - Machine Learning 
   - Deep Learning
   - NLP 
+  - Active Learning
   
+- 📫 How to reach me: valduncielpablo@gmail.com
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=pabvald&show_icons=true)
 
 <!--
@@ -43,7 +45,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: ...
+.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
