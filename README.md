@@ -7,9 +7,7 @@
 🔗 [linkedin.com/in/pabvald](https://www.linkedin.com/in/pabvald/)
 
 ### Languages 🗣️
-- 🇪🇸
-- 🇬🇧
-- 🇩🇪 
+🇪🇸, 🇬🇧, 🇩🇪 
 
 ### Programming Languages 💻
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
