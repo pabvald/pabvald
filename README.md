@@ -35,7 +35,8 @@ Fluent in: 🇪🇸 Spanish, 🇬🇧 English, 🇩🇪 German
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
 ## OSS Projects & Contributions👐
-  - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) (Contributor)
+  - [PromptingTools.jl](https://github.com/svilupp/PromptingTools.jl) (Contributor) - the Julia package that simplifies interacting with large language models (LLMs).
+  - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) (Contributor) - Model explainability that works seamlessly with 🤗 transformers
 
 
   
