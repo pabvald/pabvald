@@ -1,7 +1,5 @@
 # **Pablo** Valdunciel Sanchez
 
-Machine Learning Engineer with experience in AI-driven applications, database and backend optimisation and NLP integration. Knowledge of Python, PyTorch, HF Transformers and knowledge bases.
-
 ## Contact 📫
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valduncielpablo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabvald/)
