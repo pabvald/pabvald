@@ -2,10 +2,6 @@
 
 Computer Scientist with expertise in AI-driven solutions, with a strong background in Machine Learning, NLP, large language models (LLMs) and data modelling. Passionate about functional programming.
 
-## Contact 📫
-[![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valduncielpablo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabvald/)
-
 ## Languages 🗣️
 Fluent in: 🇪🇸 Spanish, 🇬🇧 English, 🇩🇪 German
 
